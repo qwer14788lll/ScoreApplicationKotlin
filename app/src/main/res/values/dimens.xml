@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_text_size">20sp</dimen>
+    <dimen name="score_text_size">80sp</dimen>
+    <dimen name="add_text_size">30sp</dimen>
+</resources>
