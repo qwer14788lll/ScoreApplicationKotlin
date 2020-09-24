@@ -17,10 +17,10 @@ class MainActivity : AppCompatActivity() {
     private val KEY_B = "key_b"
 
     //保存备份的比分
-    private val KEY_A_SAVE = "key_a_save"
+//     private val KEY_A_SAVE = "key_a_save"
 
-    //保存备份的比分
-    private val KEY_B_SAVE = "key_b_save"
+     //保存备份的比分
+//     private val KEY_B_SAVE = "key_b_save"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
