@@ -28,10 +28,10 @@ class MainActivity : AppCompatActivity() {
 
         readSP()
 
-        if (savedInstanceState != null) {
-            saveA = savedInstanceState.getInt(KEY_A_SAVE)
-            saveB = savedInstanceState.getInt(KEY_B_SAVE)
-        }
+//         if (savedInstanceState != null) {
+//             saveA = savedInstanceState.getInt(KEY_A_SAVE)
+//             saveB = savedInstanceState.getInt(KEY_B_SAVE)
+//         }
 
         button_a_add1.setOnClickListener { addA(1) }
         button_a_add2.setOnClickListener { addA(2) }
